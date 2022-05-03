@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://jahonmusic.com
 
 languageCode: en-us
-title: "John's Blog"
+title: "Jahon World"
 theme: "toha"
 
 # Manage languages
